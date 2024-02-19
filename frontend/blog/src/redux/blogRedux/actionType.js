@@ -1,0 +1,6 @@
+
+
+ export const All_ACTION_TYPE = {
+ ALL_BLOG : "ALL_BLOG" ,
+SELECTED_BLOG : "SELECTED_BLOG"
+ }
